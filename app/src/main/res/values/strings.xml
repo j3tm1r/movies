@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">SkyMovies</string>
+  <string name="title_activity_movies">Movies</string>
+  <string name="search">search</string>
+  <string name="genre">Genre</string>
+  <string name="long_text">Very very long title for the xml layout editor preview</string>
+  <string name="retry">Retry</string>
+</resources>
